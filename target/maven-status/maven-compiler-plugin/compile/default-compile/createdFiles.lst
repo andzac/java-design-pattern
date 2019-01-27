@@ -1,0 +1,9 @@
+facade\ChassisFacade.class
+it\andzac\dp4j\App.class
+composite\ChassisParentElement.class
+model\Engine$Gear.class
+composite\ChassisInnerElement.class
+facade\EngineFacade.class
+model\Engine.class
+composite\Chassis.class
+model\Engine$CPU.class
