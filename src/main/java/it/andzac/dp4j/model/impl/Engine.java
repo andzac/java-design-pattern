@@ -1,4 +1,4 @@
-package it.andzac.dp4j.model;
+package it.andzac.dp4j.model.impl;
 
 import it.andzac.dp4j.bridge.Locksystem;
 

@@ -1,6 +1,6 @@
 package it.andzac.dp4j.facade;
 
-import it.andzac.dp4j.model.Engine;
+import it.andzac.dp4j.model.impl.Engine;
 
 public class EngineFacade {
   private final Engine engine;
