@@ -1,7 +1,7 @@
 package it.andzac.dp4j;
 
-import composite.ChassisParentElement;
-import facade.ChassisFacade;
+import it.andzac.dp4j.composite.ChassisParentElement;
+import it.andzac.dp4j.facade.ChassisFacade;
 import model.Engine;
 
 /** Hello world! */
